@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ok4ysarthak" alt="ok4ysarthak" /></a> </p>
 
-- 🔭 I’m currently working on **Razorpay Clone**
+- 🔭 I’m currently working on **Shopping Price Comparision Reader**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Kafka and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ok4ysarthak](https://github.com/ok4ysarthak)
 
