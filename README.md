@@ -26,7 +26,7 @@ Beyond code, I'm a passionate *video editor* 🎬 with experience producing prom
 
 ## 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/ok4sarthak" target="_blank">
+<a href="https://www.linkedin.com/in/ok4ysarthak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 </a>
 
