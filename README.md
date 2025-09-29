@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋 I'm Yash Bhardwaj</h1>
+<h1 align="center">Hi 👋 I'm Sarthak Kumar Singh</h1>
 
 ---
 
 ## 💫 About Me:
 
-A Computer Engineering student passionate about *Machine Learning* 🧠, *NLP, and **MLOps*. I love building and deploying end-to-end AI applications 🚀 and I'm actively seeking an AI or Data Science internship to contribute to impactful projects.
+A Computer Engineering student passionate about *Data Engineering*, *BackEnd* 🧠, *Machine Engineering*. I love building and deploying end-to-end applications 🚀 and I'm actively seeking an AI or Data Science internship to contribute to impactful projects.
 
 ---
 
 ## 🚀 What I'm Up To
 
-* Building and deploying MLOps platforms for real-time model monitoring. 📊
+* Building and deploying MLOps platform for real-time model monitoring. 📊
 * Developing AI solutions and ensuring they're transparent with Explainable AI tools. ✨
 * Integrating Generative AI models into applications. 🤖
 
-Check out my [coding portfolio](https://github.com/bhardwaj-yash1)!
+Check out my [coding portfolio](https://github.com/ok4ysarthak)!
 
 ---
 
@@ -26,7 +26,7 @@ Beyond code, I'm a passionate *video editor* 🎬 with experience producing prom
 
 ## 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/yash-bhardwaj" target="_blank">
+<a href="https://www.linkedin.com/in/ok4sarthak" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 </a>
 
