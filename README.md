@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-A Computer Engineering student passionate about *Data Engineering*, *BackEnd* 🧠, *Machine Engineering*. I love building and deploying end-to-end applications 🚀 and I'm actively seeking an AI or Data Science internship to contribute to impactful projects.
+A Computer Engineering student passionate about *Data Engineering*, *BackEnd* , *Machine Engineering*. I love building and deploying end-to-end applications and I'm currently working on Agentic Promotion Recommendation System
 
 ---
 
