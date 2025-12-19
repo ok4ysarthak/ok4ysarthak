@@ -1,69 +1,83 @@
 <h1 align="center">Hi 👋 I'm Sarthak Kumar Singh</h1>
+<h3 align="center">Backend & Data Infrastructure Engineer</h3>
+
+<p align="center">
+  <em>Engineering reliable systems that handle high-volume data with strict correctness guarantees.</em>
+</p>
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
 
-A Computer Engineering student passionate about *Data Engineering*, *BackEnd* , *Machine Engineering*. I love building and deploying end-to-end applications and I'm currently working on Agentic Promotion Recommendation System
+[cite_start]I am a final-year Computer Science student and an incoming **Software Engineer Intern at Morgan Stanley**[cite: 50, 51]. My engineering philosophy centers on **system reliability, data integrity, and scalability**.
 
----
+[cite_start]I move beyond just "making it work"—I focus on **schema validation, service boundaries, and observability**[cite: 53, 76]. I enjoy solving problems where backend systems intersect with massive data streams.
 
-## 🚀 What I'm Up To
-
-* Building and deploying MLOps platform for real-time model monitoring. 📊
-* Developing AI solutions and ensuring they're transparent with Explainable AI tools. ✨
-* Integrating Generative AI models into applications. 🤖
-
-Check out my [coding portfolio](https://github.com/ok4ysarthak)!
+* [cite_start]🔭 **Currently working on:** Designing backend ingestion pipelines and improving data availability times for marketing zones[cite: 52].
+* 🌱 **Deep diving into:** Distributed systems patterns, Data Contracts, and Snowflake architecture.
+* ⚡ **Core belief:** "Correctness first, then velocity."
 
 ---
 
-## 💡 About Me
+## 🛠 Tech Stack
 
-Beyond code, I'm a passionate *video editor* 🎬 with experience producing promotional content for college societies. I'm also skilled in *event management* 🤝, having managed logistics and led teams for various college events.
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+</p>
+
+**Infrastructure & Backend**
+<p>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+</p>
+
+**Tools & Ops**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+</p>
 
 ---
 
-## 🔗 Connect with me:
+## 🚀 Featured Engineering Projects
+
+### 📊 [Marketing Analytics & Optimization Platform](https://github.com/ok4ysarthak/Promotion-Recomendation-System)
+*A high-throughput event ingestion system.*
+* **Architecture:** Python, Kafka, Docker, PostgreSQL.
+* [cite_start]**Impact:** Engineered a pipeline processing **10k+ events per minute**.
+* [cite_start]**Highlight:** Implemented containerized microservices to ensure environment parity between dev and production[cite: 76].
+
+### 🛡️ [DeTrust Protocol](https://github.com/ok4ysarthak/Ethereum-Fraud-Detection)
+*Real-time Ethereum risk intelligence.*
+* **Architecture:** Web3, Python, Flask, Scikit-learn.
+* [cite_start]**Impact:** Built a robust REST API layer with strong validation to process on-chain transaction data[cite: 68].
+* [cite_start]**Highlight:** Prioritized system correctness and latency control by isolating ML components as dependent backend services[cite: 70].
+
+---
+
+## 💡 Beyond the Terminal
+
+While I love distributed systems, I also have a creative side:
+* **Video Editing:** I produce promotional content for college societies.
+* **Event Management:** Experienced in managing logistics for large-scale university events.
+
+---
+
+## 🔗 Connect with me
 
 <a href="https://www.linkedin.com/in/ok4ysarthak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 </a>
-
----
-
-## 💻 Tech Stack:
-
-*Languages & Databases:*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL badge">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge">
-</p>
-
-*Libraries/Frameworks:*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn badge">
-  <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost badge">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow badge">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch badge">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge">
-</p>
-
-*Developer Tools:*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter badge">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code badge">
-</p>
+<a href="mailto:ok4ysarthak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+</a>
