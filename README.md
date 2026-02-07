@@ -1,80 +1,82 @@
-<h1 align="center">Hi, I'm Sarthak Kumar Singh 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Backend & Data Infrastructure Engineer</em>
-</p>
+<img src="https://capsule-render.vercel.app/render?type=venom&color=8B0000&height=200&section=header&text=SARTHAK%20KUMAR%20SINGH&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=ffffff" width="100%" />
 
----
+# 🗃️ WANTED: THE DATA ARCHITECT
+**Backend & Data Infrastructure Engineer**
+*“Scalability isn't a choice; it’s the law of the digital frontier.”*
 
-## 💫 About Me
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8B0000)](https://www.linkedin.com/in/ok4ysarthak/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=reddeadredemption2&logoColor=8B0000)](#)
+[![Email](https://img.shields.io/badge/DISPATCH_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:ok4ysarthak@gmail.com)
 
-I am a final-year **Computer Science** student focused on building **scalable backend systems**, **high-volume data pipelines**, and **reliable infrastructure**.
-
-I bridge the gap between application logic and data reliability. My recent work involves engineering event-driven architectures with **Kafka**, enforcing data contracts in **Snowflake**, and building decentralized risk intelligence protocols.
-
-I previously interned at **Morgan Stanley**, where I engineered production data ingestion pipelines and automated data compliance workflows.
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 📜 THE DOSSIER
+I am a final-year **Computer Science Engineer** specialized in taming high-volume data and building ironclad backend systems. Just like a well-oiled repeater, my code is built for reliability and precision.
 
-* **DeTrust Protocol:** A full-stack Ethereum fraud detection system using **Web3**, **Flask**, and **Scikit-learn** to analyze transaction risk in real-time.
-* **High-Throughput Ingestion:** Architecting event-driven pipelines (10k+ events/min) using **Apache Kafka**, **Docker**, and **PostgreSQL**.
-* **Data Reliability Systems:** Implementing automated schema validation and data contract testing to prevent production failures.
+* **Current Territory:** Engineering event-driven architectures and decentralized risk intelligence.
+* **Prior Deeds:** Interned at **Morgan Stanley**, where I engineered production-grade data pipelines and automated compliance workflows.
+* **The Specialty:** Bridging the gap between raw application logic and industrial-scale data reliability.
 
 ---
 
-## 🛠 Featured Projects
+## 🔫 THE ARSENAL (Tech Stack)
+
+### ⚔️ Primary Weapons (Languages)
+`Python` · `C++` · `SQL (PostgreSQL/Snowflake)` · `Shell Scripting` · `JavaScript`
+
+### 🐎 The Caravan (Data & Infrastructure)
+`Apache Kafka` · `Docker` · `Snowflake` · `Jenkins` · `Google Cloud (GCP)` · `Linux`
+
+### 🛠️ Iron Works (Backend Tools)
+`FastAPI` · `Flask` · `Git/GitHub` · `PyTorch/TensorFlow` · `Scikit-learn`
+
+---
+
+## 💰 HIGH-VALUE BOUNTIES (Featured Projects)
 
 ### 🛡️ [DeTrust Protocol — Ethereum Risk Intelligence](https://github.com/ok4ysarthak/Ethereum-Fraud-Detection)
-> *Python, Flask, React, PostgreSQL, Web3*
+> **Status: SECURED** | *Python, Flask, React, Web3*
 * Architected a full-stack system for real-time Ethereum transaction analysis.
 * Built a fraud-detection engine achieving **95% accuracy** in flagging high-risk wallets.
 * Designed REST APIs with strict validation to handle high-volume on-chain data.
 
-### 📊 [Marketing Analytics & Optimization Platform](https://github.com/ok4ysarthak/Promotion-Recomendation-System)
-> *Python, Kafka, Docker, PostgreSQL*
-* Designed a backend event-ingestion pipeline using **Kafka** processing **10k+ events per minute**.
-* Containerized the entire microservices architecture using **Docker** for reproducible deployments.
-* Exposed data via REST APIs for real-time dashboard visualization.
+### 📊 [RetailGPT — AI-Powered Commerce](https://github.com/ok4ysarthak/)
+> **Status: ACTIVE** | *LLMs, Backend, Data Engineering*
+* Developing an AI-powered platform tailored for retail intelligence.
+* Integrating deep data insights with generative AI to optimize consumer experiences.
+
+### 📈 [High-Throughput Ingestion Pipeline](https://github.com/ok4ysarthak/Promotion-Recomendation-System)
+> **Status: SECURED** | *Kafka, Docker, PostgreSQL*
+* Designed an event-ingestion pipeline processing **10,000+ events per minute**.
+* Containerized microservices using **Docker** for reproducible, rugged deployments.
 
 ---
 
-## 💻 Tech Stack
+## 📊 FRONTIER STATISTICS
+<div align="center">
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
+| ![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok4ysarthak&show_icons=true&theme=blood&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok4ysarthak&layout=compact&theme=blood&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000) |
+| :---: | :---: |
 
-**Data & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-</p>
-
-**Backend & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
+</div>
 
 ---
 
-## 🔗 Connect with me
+## 🌲 JOURNALS & LOGS
+* **Poetry:** When I'm not wrangling code, I'm writing verses.
+* **Fitness:** Building a strong chassis for a strong mind.
+* **The Long Road:** Always looking for the next big "Heist" in Data Engineering.
 
-<a href="https://www.linkedin.com/in/ok4ysarthak/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
-</a>
-<a href="mailto:ok4ysarthak@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-</a>
+<div align="center">
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" height="25"> 
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25">
+<img src="https://forthebadge.com/images/badges/runs-with-butter.svg" height="25">
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+</p>
