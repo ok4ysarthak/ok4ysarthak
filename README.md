@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/ok4ysarthak/profile_assets/blob/main/banner.svg" />
+<!-- <img src="https://github.com/ok4ysarthak/profile_assets/blob/main/banner.svg" /> -->
+<img width="965" height="343" alt="image" src="https://github.com/user-attachments/assets/542ccc72-23a2-472d-8647-2bdad759c252" />
 
 # 🗃️ WANTED: THE DATA ARCHITECT
 **Backend & Data Infrastructure Engineer**  
