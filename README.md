@@ -1,80 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=venom&color=8B0000&height=200&section=header&text=SARTHAK%20KUMAR%20SINGH&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=ffffff" width="100%" />
+<img src="https://github.com/ok4ysarthak/profile_assets/blob/main/banner.svg" />
 
 # 🗃️ WANTED: THE DATA ARCHITECT
-**Backend & Data Infrastructure Engineer**
+**Backend & Data Infrastructure Engineer**  
 *“Scalability isn't a choice; it’s the law of the digital frontier.”*
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=8B0000)](https://www.linkedin.com/in/ok4ysarthak/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=reddeadredemption2&logoColor=8B0000)](#)
-[![Email](https://img.shields.io/badge/DISPATCH_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:ok4ysarthak@gmail.com)
+[![Dispatch](https://img.shields.io/badge/DISPATCH_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:ok4ysarthak@gmail.com)
 
 </div>
 
 ---
 
 ## 📜 THE DOSSIER
-I am a final-year **Computer Science Engineer** specialized in taming high-volume data and building ironclad backend systems. Just like a well-oiled repeater, my code is built for reliability and precision.
 
-* **Current Territory:** Engineering event-driven architectures and decentralized risk intelligence.
-* **Prior Deeds:** Interned at **Morgan Stanley**, where I engineered production-grade data pipelines and automated compliance workflows.
-* **The Specialty:** Bridging the gap between raw application logic and industrial-scale data reliability.
+Final-year **Computer Science Engineer**, specializing in high-volume data systems and resilient backend infrastructure.  
+Like a well-maintained repeater, my systems are built to fire **fast, accurately, and under pressure**.
+
+- **Current Territory:** Event-driven architectures, data reliability, and system automation  
+- **Prior Deeds:** Interned at **Morgan Stanley**, building production-grade data pipelines and compliance automation  
+- **Calling Card:** Turning raw application logic into **industrial-scale, fault-tolerant systems**
 
 ---
 
-## 🔫 THE ARSENAL (Tech Stack)
+## 🔫 THE ARSENAL
 
-### ⚔️ Primary Weapons (Languages)
-`Python` · `C++` · `SQL (PostgreSQL/Snowflake)` · `Shell Scripting` · `JavaScript`
+### ⚔️ Primary Weapons
+`Python` · `C++` · `SQL (PostgreSQL / Snowflake)` · `Shell` · `JavaScript`
 
-### 🐎 The Caravan (Data & Infrastructure)
+### 🐎 The Caravan
 `Apache Kafka` · `Docker` · `Snowflake` · `Jenkins` · `Google Cloud (GCP)` · `Linux`
 
-### 🛠️ Iron Works (Backend Tools)
-`FastAPI` · `Flask` · `Git/GitHub` · `PyTorch/TensorFlow` · `Scikit-learn`
+### 🛠️ Iron Works
+`FastAPI` · `Flask` · `Git / GitHub` · `PyTorch` · `TensorFlow` · `Scikit-learn`
 
 ---
 
-## 💰 HIGH-VALUE BOUNTIES (Featured Projects)
+## 💰 HIGH-VALUE BOUNTIES
 
-### 🛡️ [DeTrust Protocol — Ethereum Risk Intelligence](https://github.com/ok4ysarthak/Ethereum-Fraud-Detection)
-> **Status: SECURED** | *Python, Flask, React, Web3*
-* Architected a full-stack system for real-time Ethereum transaction analysis.
-* Built a fraud-detection engine achieving **95% accuracy** in flagging high-risk wallets.
-* Designed REST APIs with strict validation to handle high-volume on-chain data.
+### 🛡️ DeTrust Protocol — Ethereum Risk Intelligence
+**Status: SECURED** · *Python, Flask, React, Web3*  
+<https://github.com/ok4ysarthak/Ethereum-Fraud-Detection>
 
-### 📊 [RetailGPT — AI-Powered Commerce](https://github.com/ok4ysarthak/)
-> **Status: ACTIVE** | *LLMs, Backend, Data Engineering*
-* Developing an AI-powered platform tailored for retail intelligence.
-* Integrating deep data insights with generative AI to optimize consumer experiences.
+- Built a real-time Ethereum transaction risk analysis engine  
+- Achieved **95% accuracy** in high-risk wallet detection  
+- Designed hardened REST APIs for high-throughput on-chain data
 
-### 📈 [High-Throughput Ingestion Pipeline](https://github.com/ok4ysarthak/Promotion-Recomendation-System)
-> **Status: SECURED** | *Kafka, Docker, PostgreSQL*
-* Designed an event-ingestion pipeline processing **10,000+ events per minute**.
-* Containerized microservices using **Docker** for reproducible, rugged deployments.
+---
+
+### 📈 High-Throughput Ingestion Pipeline
+**Status: SECURED** · *Kafka, Docker, PostgreSQL*  
+<https://github.com/ok4ysarthak/Promotion-Recomendation-System>
+
+- Designed an event pipeline handling **10,000+ events/minute**  
+- Deployed containerized microservices for reproducible environments
 
 ---
 
 ## 📊 FRONTIER STATISTICS
-<div align="center">
 
-| ![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok4ysarthak&show_icons=true&theme=blood&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ok4ysarthak&layout=compact&theme=blood&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000) |
-| :---: | :---: |
+<p align="center">
+  <img src="https://github.com/ok4ysarthak/profile_assets/blob/main/output/frontier_stats.svg" />
+</p>
 
-</div>
+> _Generated from live GitHub data via automated pipelines._
 
 ---
 
 ## 🌲 JOURNALS & LOGS
-* **Poetry:** When I'm not wrangling code, I'm writing verses.
-* **Fitness:** Building a strong chassis for a strong mind.
-* **The Long Road:** Always looking for the next big "Heist" in Data Engineering.
+
+<p align="center">
+  <img src="https://github.com/ok4ysarthak/profile_assets/blob/main/output/journal_logs.svg" />
+</p>
+
+> _Auto-logged activity from the frontier. No embellishments. No shortcuts._
+
+---
 
 <div align="center">
-<img src="https://forthebadge.com/images/badges/made-with-python.svg" height="25"> 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25">
-<img src="https://forthebadge.com/images/badges/runs-with-butter.svg" height="25">
+
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" height="24">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="24">
+
 </div>
 
 <p align="center">
